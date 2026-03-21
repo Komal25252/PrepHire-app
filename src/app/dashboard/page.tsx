@@ -14,6 +14,8 @@ interface SessionData {
   status: 'completed' | 'in_progress';
 }
 
+
+
 const SAMPLE_SESSIONS: SessionData[] = [
   {
     id: '1',
